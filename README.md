@@ -1,2 +1,1 @@
-# OpenSourceRepoTemplate
-OpenSourceRepoTemplate
+# Peatland Remote Sensing OPTRAM code
